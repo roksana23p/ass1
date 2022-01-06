@@ -1,0 +1,24 @@
+.ist{ background: #2dabf5; }
+ .rok{ text-align: center;
+      color: #002180;
+      padding: 10px 0px;
+      margin: 1px;
+	 }
+ #head1{background:#2196F3 url(pic/gold.jpg);margin:0px;padding: 0px;background-repeat:no-repeat;background-size:cover; margin-top:-2px;text-align:right}
+.navbar{padding:3px 20px;color:#ffffff;font-weight:bold;border:1px solid;border-color:#014589;font-size: 20px;text-decoration: none; margin:10px; background: #0e91d1;;
+    border-radius: 3px;
+}
+.headp1{text-align: justify;
+       font-size: 15px;
+       padding: 12px;
+       color: #12424c;}
+.headimage{border-radius: 50%; 
+			text-align:right; 
+			margin-top:8px;
+			margin-left: 12px;
+			margin-right: 22px;}
+.headdiv{float:left;width:60%;}
+. navbar a{padding:22px;border:1px;border-color:gray;font-size: 15px;}
+body{width:90%;margin:auto;}
+.sec1{width:40%; float:left}
+.sec2{float:left;}
